@@ -23,7 +23,7 @@ func Test_grade(t *testing.T) {
 			args: args{
 				nilai: 60,
 			},
-			want: "D",
+			want: "B",
 		},
 		{
 			name: "case return A",
